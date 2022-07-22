@@ -1,4 +1,4 @@
-# Ping pong
+# Ping Pong
 
 ![Ping Pong preview](assets/preview.gif)
 
