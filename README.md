@@ -1,6 +1,6 @@
 # Ping pong
 
-![Ping Pong preview](assets/preview.png)
+![Ping Pong preview](assets/preview.gif)
 
 * [Introduction](#introduction)
 * [Goals](#goals)
