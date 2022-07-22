@@ -3,7 +3,7 @@
 ![Ping Pong preview](assets/preview.png)
 
 * [Introduction](#introduction)
-* [Goals](#build)
+* [Goals](#goals)
 * [Build](#build)
 * [How to Play](#how-to-play)
 
