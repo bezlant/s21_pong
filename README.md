@@ -9,7 +9,7 @@
 
 ### Introduction
 
-The goal of this project is to get familiar with ncurses library and build a simple yet nice tui for the game.
+A simple two-player ping-pong in the terminal using [ncurses](https://en.wikipedia.org/wiki/Ncurses) 
 
 ### Goals
 - Learn basic control structures in C
