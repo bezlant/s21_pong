@@ -18,7 +18,7 @@ A simple two-player ping-pong in the terminal using [ncurses](https://en.wikiped
 ### Build
 
 ```
-$ git clone git.github.com:bezlant/s21_pong.git
+$ git clone https://github.com/bezlant/s21_pong
 $ cd s21_pong/src
 $ make
 ```
