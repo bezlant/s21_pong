@@ -3,12 +3,17 @@
 ![Ping Pong preview](assets/preview.png)
 
 * [Introduction](#introduction)
+* [Goals](#build)
 * [Build](#build)
 * [How to Play](#how-to-play)
 
 ### Introduction
 
 The goal of this project is to get familiar with ncurses library and build a simple yet nice tui for the game.
+
+### Goals
+- Learn basic control structures in C
+- Get better at using [ncurses](https://tldp.org/HOWTO/NCURSES-Programming-HOWTO/)  
 
 ### Build
 
